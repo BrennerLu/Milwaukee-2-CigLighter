@@ -1,6 +1,6 @@
-# MilwaukeeM18-2-CarJack
+# MilwaukeeM18-2-CarCigaretteLighter
 
-<img src="(https://github.com/BrennerLu/MilwaukeeM18-2-CarJack/blob/main/images/assembly.png)" width="50%" height="50%">
+![assembly](https://github.com/BrennerLu/MilwaukeeM18-2-CarJack/blob/main/images/assembly.png)
 
 ## Description
 
